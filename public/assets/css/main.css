@@ -69,21 +69,21 @@ header {
   }
 
   .service-bg-1 {
-      background: url(/assets/images/slide-3.jpg);
+      background: url(/assets/images/new-3.jpg);
       -webkit-background-size: cover;
       background-size: cover;
       background-position: center; 
   }
 
   .service-bg-2 {
-    background: url(/assets/images/13-crimhelmonfire.jpg);
+    background: url(/assets/images/new-2.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center; 
 }
 
 .service-bg-3 {
-    background: url(/assets/images/Crimson_helm.jpg);
+    background: url(/assets/images/new-1.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center; 
